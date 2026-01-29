@@ -27,7 +27,7 @@ struct CoffeeTileView: View {
         }
         .frame(width:200, height:250)
         .background(RoundedRectangle(cornerRadius: 30))
-        .foregroundStyle(.red)
+        .foregroundStyle(.white)
         .shadow(radius: 5)
         .padding()
     
